@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PInvokeCS": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
